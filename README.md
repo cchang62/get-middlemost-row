@@ -1,6 +1,10 @@
 # get-middlemost-row
 
 ```sql
+/*  
+Following 2 solutions are MSSQL edition.
+*/  
+
 --Solution 1
 select *
 from [DB].[Schema].[Table1]
